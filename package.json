@@ -1,0 +1,15 @@
+{
+  "name": "grouprank",
+  "version": "1.0.0",
+  "description": "Treats groups like pages, ranks them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ngraph.graph": "0.0.14",
+    "ngraph.pagerank": "^0.1.4"
+  }
+}
